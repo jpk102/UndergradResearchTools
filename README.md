@@ -2,7 +2,13 @@
 collaboration area between Kyle Peco and Brian Mapes
 
 ## Camera images: 
-#### Can we relate convective cloud character to the 00Z or 12Z sounding profile? 
+
+### Yess: Predict season of images from https://teachablemachine.withgoogle.com/train/image
+
+Gather say 100 images from http://carob.rsmas.miami.edu/data/cameras/hourly_images/camera1 from winter vs. summer. Put in Google folder. 
+https://teachablemachine.withgoogle.com/models/t7b1k9toJ/
+
+####### Naww: Can we relate convective cloud character to the 00Z or 12Z sounding profile? 
 
 Cameras from RSMAS roof: 
 http://carob.rsmas.miami.edu/data/cameras/hourly_images/
