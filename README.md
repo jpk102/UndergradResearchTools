@@ -11,5 +11,5 @@ Data folder: ~/Box/MapesGroupUndergradReseach/
 
 
 ## Soundings_Skycams_TeachableMachine_KylePeco2020: 
-Predict season or sounding parameter (CAPE, etc.) of sky cam images using https://teachablemachine.withgoogle.com/train/images
+using https://teachablemachine.withgoogle.com/train/images
 
