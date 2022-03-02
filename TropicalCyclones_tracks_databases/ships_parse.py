@@ -3,6 +3,7 @@
 Created on Wed 10 Apr 2019 16:16
 
 @author: Matt Nicholson
+https://github.com/mnichol3/glm_forecast_graphic/tree/master/src
 
 These functions obtain and parse Statistical Hurricane Intensity Predictions
 Scheme (SHIPS) files
